@@ -10,8 +10,5 @@ Run
 
 ```
 npm install "git+http://git.bdp.cc/f2e/browserify-zepto.git"
-```
-or
-```
 npm install "git+http://git.bdp.cc/f2e/browserify-zepto.git#v1.1.6-2"
 ```
