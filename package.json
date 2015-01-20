@@ -1,0 +1,12 @@
+{
+  "name": "bdp-browserify-zepto",
+  "version": "1.1.6-2",
+  "description": "Shim repository for the Zepto.js JavaScript library for Browserify",
+  "main": "zepto.js",
+  "repository": {
+    "type": "git",
+    "url": "http://git.bdp.cc/f2e/browserify-zepto.git"
+  },
+  "author": "jiami",
+  "license": "MIT",
+}
