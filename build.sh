@@ -4,7 +4,7 @@ cd zepto
 git checkout 1.1-stable
 npm install
 export NODE_PATH=./node_modules:$NODE_PATH
-export MODULES="zepto event ajax form ie detect fx fx_methods data selector touch gesture"
+export MODULES="zepto event ajax form ie detect fx fx_methods data selector touch gesture callbacks deferred"
 npm run-script dist
 cp dist/zepto.js ../
 echo 
