@@ -1,5 +1,5 @@
 {
-  "name": "bdp-browserify-zepto",
+  "name": "browserify-zepto",
   "version": "1.1.6-2",
   "description": "Customized Zepto Build",
   "main": "zepto.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://git.bdp.cc/f2e/browserify-zepto.git"
+    "url": "http://github.com/mijia/browserify-zepto.git"
   },
   "author": "jiami",
   "license": "MIT"
